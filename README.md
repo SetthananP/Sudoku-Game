@@ -15,7 +15,8 @@ Developed a **Sudoku game** using **C**, utilizing a **server-client model** wit
 - 🧵 **Threaded programming**: Each player interaction is handled in separate threads, improving performance and responsiveness.
 
 ## Screenshots
-1. Example Game
+**1. Example Game**
+      and
 
 <img src="https://github.com/SetthananP/Sudoku-Game/blob/main/playgame.png?raw=true" alt="Example Game" width="900"/>
 
