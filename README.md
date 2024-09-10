@@ -17,7 +17,7 @@ Developed a **Sudoku game** using **C**, utilizing a **server-client model** wit
 ## Screenshots
 1. Example Game
 
-<img src="https://github.com/SetthananP/Sudoku-Game/blob/main/playgame.png?raw=true" alt="Example Game" width="400"/>
+<img src="https://github.com/SetthananP/Sudoku-Game/blob/main/playgame.png?raw=true" alt="Example Game" width="900"/>
 
 
 ## Installation
