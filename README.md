@@ -14,6 +14,12 @@ Developed a **Sudoku game** using **C**, utilizing a **server-client model** wit
 - 🌐 **Server-client architecture**: The game is built on a server-client model, ensuring smooth communication.
 - 🧵 **Threaded programming**: Each player interaction is handled in separate threads, improving performance and responsiveness.
 
+## Screenshots
+1. Example Game
+
+<img src="https://github.com/SetthananP/Sudoku-Game/blob/main/playgame.png?raw=true" alt="Example Game" width="400"/>
+
+
 ## Installation
 
 To run this project locally:
