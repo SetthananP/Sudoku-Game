@@ -15,8 +15,8 @@ Developed a **Sudoku game** using **C**, utilizing a **server-client model** wit
 - 🧵 **Threaded programming**: Each player interaction is handled in separate threads, improving performance and responsiveness.
 
 ## Screenshots
-**1. Example Game**<br><dd>&nbsp;In the terminal on the right, we have the server side of the system. This server is responsible for checking the columns and values to see if they are correct. It waits for input from the client side, which is on the left. The client sends rows of numbers, for example, 1 1 2.<br>
-<dd>&nbsp;The server receives these rows and verifies whether the numbers are correct according to the game's rules. If the input is correct, the server will continue to process the next set of data. This process repeats until all the data has been checked.
+**1. Example Game**<br><dd> &nbsp; In the terminal on the right, we have the server side of the system. This server is responsible for checking the columns and values to see if they are correct. It waits for input from the client side, which is on the left. The client sends rows of numbers, for example, 1 1 2.<br>
+<dd> &nbsp; The server receives these rows and verifies whether the numbers are correct according to the game's rules. If the input is correct, the server will continue to process the next set of data. This process repeats until all the data has been checked.
 
 <img src="https://github.com/SetthananP/Sudoku-Game/blob/main/playgame.png?raw=true" alt="Example Game" width="900"/>
 
