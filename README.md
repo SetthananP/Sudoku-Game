@@ -1,4 +1,4 @@
-# 🧩 Sudoku Game
+# Sudoku Game 🧩
 
 ## 📝 Project Description
 Developed a **Sudoku game** using **C**, utilizing a **server-client model** with **threaded programming** to enable **real-time interactions** between players.
